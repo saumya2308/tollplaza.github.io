@@ -1,0 +1,721 @@
+.vehicle h1
+{
+	padding-left: 80px;
+	text-decoration: underline;
+}
+.vehicle h2
+{
+	margin-left: 400px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+
+}
+.contact form
+{
+	margin-left: 50px;
+}
+.contact input
+{
+	 width: 500px;
+	 height: 40px;
+	 margin-bottom: 10px;
+   font-size: 20px;
+   border: 1px solid #0033cc;
+   text-align: center;
+}
+.contact select
+{
+	width: 500px;
+	height: 40px;
+	margin-bottom: 10px;
+   font-size: 20px;
+   border: 1px solid #0033cc;
+   text-align: center;
+}
+.contact option
+{
+	text-align: center;
+}
+.contact .submit
+{
+	letter-spacing: 2px;
+	background: #0033cc;
+	color: white;
+	font-size: 20px;
+	height: 40px;
+	width: 240px;
+	border: 1px solid #0033cc;
+	font-weight: bold;
+}
+.contact .submit:hover
+{
+  background: white;
+  color:black;
+}
+.contact h4
+{
+	font-size: 18px;
+}
+.contact .a
+{
+  display: inline-block;
+}
+.contact .a a
+{
+  border: 1px solid #0033cc;
+  letter-spacing: 2px;
+  background: #0033cc;
+  color: white;
+  font-size: 20px;
+  height: 40px;
+  width: 240px;
+  border: 1px solid #0033cc;
+  font-weight: bold;
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-top: 6.8px;
+  text-decoration: none;
+  padding-bottom: 6.5px;
+}
+.contact .a a:hover
+{
+  background: white;
+  color: black;
+}
+footer
+{
+	text-align: center;
+	font-size: 16px;
+	background: #0033cc;
+
+}
+.login
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+
+.validation h1
+{
+	padding-left: 80px;
+	text-decoration: underline;
+	margin-bottom: 30px;
+}
+.contact input
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	border: 1px solid #0033cc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.contact select
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	border: 1px solid #0033cc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.contact .form-controlsubmit
+{
+	background:#0033cc;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	letter-spacing: 2px;
+}
+.contact .form-controlsubmit:hover
+{
+	background: white;
+	color: black;
+}
+.info
+{
+	font-size: 18px;
+}
+.login
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+
+.form h2
+{
+	font-size: 22px;
+	text-decoration: underline;
+	word-spacing: 3px;
+	padding-left: 80px;
+}
+.form h1
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+    padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+
+.form input
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+}
+.form select
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+}
+
+.submit
+{
+	font-weight: bold;
+	font-size: 22px;
+	background: #0033cc;
+	color: white;
+	letter-spacing: 2px;
+}
+.submit:hover
+{
+	background: white;
+	color: black;
+}
+
+.info
+{
+	font-size: 18px;
+    margin-bottom: 20px;
+}
+table {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 40px;
+}
+table, th, td {
+  border: 1px solid #dcdcdc;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+  font-weight: normal;
+ 
+}
+
+.login
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+
+.head
+{
+	background: #0033cc;
+	color: white;
+	font-size: 20px;
+}
+.money h1
+{
+	text-decoration: underline;
+	padding-left: 80px;
+	margin-bottom: 20px;
+}
+.contact input
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+}
+.contact select
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+
+}
+.submit
+{
+	font-weight: bold;
+	font-size: 22px;
+	background: #0033cc;
+	color: white;
+}
+.submit:hover
+{
+	background: white;
+	color: black;
+}
+
+.info
+{
+	font-size: 18px;
+
+}
+.login
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+*
+{
+  font-family: calibri;
+}
+.fii
+{
+  background:#0033cc;
+}
+.fii li
+{
+  display: inline-block;
+  color: black;
+  padding-left: 20px;
+}
+.fii li a
+{
+  color:white;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+}
+.fii li a:hover
+{
+  color: black;
+  transition: 0.2s;
+}
+.sii
+{
+  background: #dcdcdc;
+  width: auto;
+  height: 90px;
+}
+.sii .logo img
+{
+  float: left;
+  width: 100px;
+  height: 80px;
+}
+.sii .nav
+{
+  float: right;
+}
+.sii .nav li
+{
+  display: inline-block;
+  color: black;
+  padding: 20px 10px;
+  margin-right: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sii .nav li a
+{
+color:black;
+text-decoration: none;
+}
+.sii .nav li a:hover
+{
+  color: #0033cc;
+  transition: 0.2s;
+}
+.sii .logo img
+{
+  width: 200px;
+  height: 80px;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+  background-color: #777;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+.image img 
+{
+	width: 620px;
+	height: 400px;
+	display: inline-block;
+	border: 1px solid #0033cc;
+	margin-left: 20px;
+}
+.image h1
+{
+	padding-left: 20px;
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+    padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+.form h2
+{
+	text-decoration: underline;
+	padding-left: 80px;
+	margin-bottom:30px;
+	margin-top: 60px;
+}
+.form input
+{
+	margin-left: 330px;
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+}
+.form select
+{
+	margin-left: 330px;
+	width: 500px;
+	height: 40px;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+}
+
+.submit
+{
+	font-weight: bold;
+	font-size: 22px;
+	background: #0033cc;
+	color: white;
+	letter-spacing: 2px;
+}
+.submit:hover
+{
+	background: white;
+	color: black;
+}
+
+.info
+{
+	font-size: 18px;
+}
+.form
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.form h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+
+.accordion {
+  background-color: white;
+  color: #0033cc;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 1px solid #0033cc;
+  text-align: left;
+  outline: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.4s;
+  margin-bottom: 10px;
+}
+
+.active, .accordion:hover {
+  background-color: #dcdcdc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+.aa
+{
+  padding: 40px 40px;
+}
+.login
+{
+  background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+  padding-left: 40px;
+  padding-top: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+  color: white;
+}
+footer
+{
+  text-align: center;
+  font-size: 16px;
+  background: #0033cc;
+  margin-top: 20px;
+  margin-bottom: -40px;
+}
+.driver h1
+{
+  padding-left: 80px;
+	text-decoration: underline;
+	margin-bottom: 30px;
+}
+.contact input
+{
+	margin-left: 310px;
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 1px solid #0033cc;
+}
+.form-controlsubmit
+{
+	font-weight: bold;
+	font-size: 22px;
+	background: #0033cc;
+	color: white;
+}
+.form-controlsubmit:hover
+{
+	background: white;
+	color: black;
+}
+.info
+{
+	font-size: 18px;
+
+}
+.login
+{
+	background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+
+.ab 
+{
+	padding: 40px 40px;
+}
+.ab h1
+{
+	color: #0033cc;
+	font-weight: bold;
+	word-spacing: 3px;
+}
+.ab h2
+{
+	font-weight:bold;
+}
+.ab h3
+{
+	font-weight: unset;
+}
+footer
+{
+	text-align: center;
+	font-size: 16px;
+	background: #0033cc;
+
+}
+.login
+{
+    background:url(images/login.jpg);
+    height: 100px;
+    background-size: cover;
+}
+.login h1
+{
+	padding-left: 40px;
+	padding-top: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: white;
+}
+.column {
+  float: left;
+  background-color: #0033cc;
+  width: 30%;
+ /* Should be removed. Only for demonstration */
+  text-align: left;
+  padding: 50px 60px 50px 60px;
+  color: white;
+}
+.column a
+{
+  color:white;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  background-color: #0033cc;
+  display: table;
+  clear: both;
+}
+footer{
+  color:white;
+}
